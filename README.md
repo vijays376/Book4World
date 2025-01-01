@@ -1,5 +1,4 @@
 
-```markdown
 # Book4World 📚
 
 **Book4World** is a React-based web application that enables book enthusiasts to search for books, explore details, and discover new literary treasures. The app utilizes the **Google Books API** to provide real-time book data, including titles, authors, descriptions, and more.
@@ -108,4 +107,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any queries or suggestions, feel free to reach out:  
 - **GitHub**: [vijays376](https://github.com/vijays376)  
 - **Email**: vijays376@example.com
-```
