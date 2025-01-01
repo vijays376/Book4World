@@ -1,24 +1,37 @@
 
-```markdown
-# Book4World 📚
+# [Book4World 📚](https://book4world.netlify.app/)
 
-**Book4World** is a React-based web application that enables book enthusiasts to search for books, explore details, and discover new literary treasures. The app utilizes the **Google Books API** to provide real-time book data, including titles, authors, descriptions, and more.
+**[Book4World](https://book4world.netlify.app/)** is a React-based web application that enables book enthusiasts to search for books, explore details, and discover new literary treasures. The app utilizes the **[Google Books API](https://developers.google.com/books)** to provide real-time book data, including titles, authors, descriptions, price and more.
+
+---
+
+## 📑 Table of Contents
+
+1. [🌟 Features](#-features)
+2. [🔧 Tech Stack](#-tech-stack)
+3. [🛠️ Installation and Setup](#️-installation-and-setup)
+4. [📂 Project Structure](#-project-structure)
+5. [🌐 Deployment](#-deployment)
+6. [📸 Screenshots](#-screenshots)
+7. [🤝 Contributing](#-contributing)
+8. [📜 License](#-license)
+9. [📬 Contact](#-contact)
 
 ---
 
 ## 🌟 Features
 
-- **Search for Books**: Instantly search for books by title, author, or keywords using the Google Books API.
-- **Book Details**: View detailed information about books, including descriptions, authors, and publication dates.
+- **Search for Books**: Instantly search for books by title, author, or keywords using the [Google Books API](https://developers.google.com/books).
+- **Book Details**: View detailed information about books, including descriptions, authors, price and publication dates.
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React.js (with React Hooks and functional components)
-- **API**: Google Books API
-- **Styling**: CSS/SCSS (or your preferred styling library)
+- **Frontend**: [React.js](https://react.dev/)
+- **API**: [Google Books API](https://developers.google.com/books)
+- **Styling**: [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
 
@@ -57,6 +70,7 @@
 
 ```
 /src
+  /assets       # Images and other static assets
   /components   # React components
   App.js        # Main app component
   index.css     # CSS
@@ -68,12 +82,30 @@
 
 ## 🌐 Deployment
 
-The project can be easily deployed on platforms like Netlify, Vercel, or GitHub Pages. Follow these steps for deployment:  
+The project can be accessed online at **[Book4World](https://book4world.netlify.app/)**.
+
+To deploy on your own platform:  
 1. Build the project:
    ```bash
    npm run build
    ```
 2. Deploy the `build/` folder to your hosting service.
+
+---
+
+## 📸 Screenshots
+
+### Front Page
+![Front Page](src/assets/Frontpage.png)
+
+### Book Search
+![Book Search](src/assets/Search.png)
+
+### Book Description
+![Book Description](src/assets/Description.png)
+
+### Footer
+![Footer](src/assets/Footer.png)
 
 ---
 
@@ -107,5 +139,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any queries or suggestions, feel free to reach out:  
 - **GitHub**: [vijays376](https://github.com/vijays376)  
-- **Email**: vijays376@example.com
-```
+- **Email**: vijayschouhan376@gmail.com
