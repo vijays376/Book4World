@@ -139,5 +139,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any queries or suggestions, feel free to reach out:  
 - **GitHub**: [vijays376](https://github.com/vijays376)  
-- **Email**: vijays376@example.com
+- **Email**: vijayschouhan376@gmail.com
 
