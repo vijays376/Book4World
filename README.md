@@ -1,7 +1,7 @@
 
 # [Book4World 📚](https://book4world.netlify.app/)
 
-**[Book4World](https://book4world.netlify.app/)** is a React-based web application that enables book enthusiasts to search for books, explore details, and discover new literary treasures. The app utilizes the **[Google Books API](https://developers.google.com/books)** to provide real-time book data, including titles, authors, descriptions, price and more.
+**[Book4World](https://book4world.netlify.app/)** is a React-based web application that enables book enthusiasts to search for books, explore details, and discover new literary treasures. The app utilizes the **[Google Books API](https://developers.google.com/books)** to provide real-time book data, including titles, authors, descriptions, price, and more.
 
 ---
 
@@ -22,7 +22,7 @@
 ## 🌟 Features
 
 - **Search for Books**: Instantly search for books by title, author, or keywords using the [Google Books API](https://developers.google.com/books).
-- **Book Details**: View detailed information about books, including descriptions, authors, price and publication dates.
+- **Book Details**: View detailed information about books, including descriptions, authors, price, and publication dates.
 - **Responsive Design**: Enjoy a seamless experience on both desktop and mobile devices.
 
 ---
@@ -140,3 +140,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any queries or suggestions, feel free to reach out:  
 - **GitHub**: [vijays376](https://github.com/vijays376)  
 - **Email**: vijayschouhan376@gmail.com
+
